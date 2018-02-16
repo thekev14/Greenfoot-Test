@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Fly
+comment0.text=\n\ Write\ a\ description\ of\ class\ Fly\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Fly\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ fly()
+comment3.params=
+comment3.target=void\ setRapidFire()
+comment4.params=
+comment4.target=void\ fire()
+comment5.params=x
+comment5.target=void\ move(int)
+comment6.params=
+comment6.target=void\ eat()
+comment7.params=
+comment7.target=void\ die()
+comment8.params=
+comment8.target=void\ powerUp()
+numComments=9

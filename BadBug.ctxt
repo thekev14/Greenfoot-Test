@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BadBug
+comment0.text=\n\ Write\ a\ description\ of\ class\ BadBug\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=BadBug()
+comment2.params=speed
+comment2.target=BadBug(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
